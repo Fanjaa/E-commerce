@@ -135,7 +135,7 @@
          </div>
          <!-- header section end -->
          <!-- banner section start -->
-         <!-- <div class="banner_section layout_padding">
+         <div class="banner_section layout_padding">
             <div class="container">
                <div id="my_slider" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
@@ -172,7 +172,7 @@
                   </a>
                </div>
             </div>
-         </div> -->
+         </div>
          <!-- banner section end -->
       </div>
       <!-- banner bg main end -->
